@@ -1,0 +1,6 @@
+{
+  "name": "Internal Stakeholder Map",
+  "description": "An interactive, glassmorphic stakeholder mapping tool designed for internal tracking of key entities, contacts, relationships, and strategic alignment across nine core sectors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
